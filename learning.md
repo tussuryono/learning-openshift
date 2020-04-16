@@ -8,11 +8,11 @@
 ### Initial config
 ```sh
 $ git config --global user.name "[name]"
-$ git config --global user.name "tussuryono"
 
 $ git config --global user.email "[email address]"
-$ git config --global user.email "tus.suryono@gmail.com"
 
 additional setting
 $ git config --global color.ui auto
+
+$ git config --global credential.help cache
 ```
